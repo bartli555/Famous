@@ -1,6 +1,6 @@
 # Maria Skłodowska-Curie
 
-![Maria Skłodowska-Curie](https://upload.wikimedia.org/wikipedia/commons/7/71/Marie_Curie_c1920.jpg)
+![Maria Skłodowska-Curie](https://upload.wikimedia.org/wikipedia/commons/c/c8/Marie_Curie_c._1920s.jpg)
 
 Maria Skłodowska-Curie była polsko-francuską fizyczką i chemiczką, która przeprowadziła pionierskie badania nad promieniotwórczością. Urodziła się w Warszawie, ale większość życia zawodowego spędziła we Francji. Była pierwszą kobietą, która otrzymała Nagrodę Nobla, pierwszą osobą i jedyną kobietą, która otrzymała ją dwukrotnie, oraz jedyną osobą, która została uhonorowana w dwóch różnych dziedzinach nauk przyrodniczych.
 
@@ -20,4 +20,5 @@ Mimo ogromnych sukcesów naukowych, Maria musiała walczyć z uprzedzeniami wyni
 ## Więcej informacji
 
 * [Biografia na Wikipedii](https://pl.wikipedia.org/wiki/Maria_Sk%C5%82odowska-Curie)
+
 * [Strona Muzeum Marii Skłodowskiej-Curie](https://www.mmsc.waw.pl/)
